@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'rokan'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_66c3d5b65a674dbdb8ef8d29a7470958 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0209f9dd990f4c398e46a45af2ec98fd }}
         package: .
