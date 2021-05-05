@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'runu'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a1919377444c449abd4ce3a5353cad78 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0a2288b67afc4c008e6f3a1189825525 }}
         package: .
